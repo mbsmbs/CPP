@@ -1,5 +1,7 @@
 # C++ Study
 
-[1. Output](https://github.com/mbsmbs/CPP/blob/main/Output/Output.md)
+[Output](https://github.com/mbsmbs/CPP/blob/main/Output/Output.md)
 
-[2. Input]()
+[Input](https://github.com/mbsmbs/CPP/blob/main/Input/Input.md)
+
+[Some New Keywords]()
