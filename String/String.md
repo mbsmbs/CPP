@@ -1,4 +1,7 @@
 # String   std::string
+```c++
+string strName;
+```
 - 클래스
 - 문자열 길이가 증가 할 수 있음
 - 대입, 덧붙히기 가능
