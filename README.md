@@ -4,4 +4,4 @@
 
 # [Input](https://github.com/mbsmbs/CPP/blob/main/Input/Input.md)
 
-# [Some New Keywords]()
+# [Some New Keywords](https://github.com/mbsmbs/CPP/blob/main/SomeNewKeywords/SomeNewKeywords.md)
