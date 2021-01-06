@@ -1,4 +1,4 @@
-# 출력 std::cout
+# Output Stream  std::cout
 ```c
 std::cout << something << std::endl;
 ```
