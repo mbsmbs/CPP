@@ -23,13 +23,18 @@ fstream fs;
 fs.open("helloworld.txt");
 ```
 
-### open()
+### - open()
 - 각 스트림마다 open()메서드가 있다.
 - mode flags들이 있다. ios_base : 31
 ```c++
 open("HelloWorld.txt", ios_base:: in | ios_base::binary);
 ```
 
-### close()
+### - close()
+- 각 스트림마다 close() 메서드가 있음
 
-### is_open()
+### - is_open()
+- 파일이 열려 있는지 확인
+
+### - 파일에서 문자 하나씩 읽기
+- 
